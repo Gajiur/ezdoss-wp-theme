@@ -13,9 +13,6 @@ License URI: LICENSE
 
 A starter theme called wp_ezdoss_theme.
 
-== Description ==
-
-Ezdoss Signage System Theme
 
 == Installation ==
 
