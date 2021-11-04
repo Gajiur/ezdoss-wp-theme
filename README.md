@@ -13,6 +13,8 @@ License URI: LICENSE
 
 A starter theme called wp_ezdoss_theme.
 
+== Installation ==
+Ezdoss Signage System Basic Theme for Wordpress installation. This theme features two types of signage template view as Landscape View, Portrait View for Sigange Post. It is helpfull for who want to use Ezdoss Signage System with Wordpress Setup.
 
 == Installation ==
 
