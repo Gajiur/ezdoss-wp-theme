@@ -15,7 +15,7 @@ License: GNU General Public License v2 or later
 
 License URI: LICENSE
 
-A starter theme called wp_ezdoss_theme.
+A theme called wp_ezdoss_theme.
 
 == Description ==
 
